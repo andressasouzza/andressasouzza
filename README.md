@@ -1,5 +1,5 @@
 Olá, sou Andressa 😁
-🔭 No processo de transição de carreira 
+🔭 Transição de carreira 
 🌱 Atualmente estou aprendendo em C++
 
 <div>
