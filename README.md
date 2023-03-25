@@ -12,4 +12,5 @@ Olá, sou Andressa 😁
 <div>
   <a href="https://www.instagram.com/andressads8/" target="_blank"><img= src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
+ ![snake animation](https://github.com/andressasouzza/andressasouzza/blob/output/github-contribution-grid-snake.svg)
 </div>
